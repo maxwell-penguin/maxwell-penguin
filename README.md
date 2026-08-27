@@ -1,17 +1,22 @@
 
-# Hi, i'm maxwell !
+# Hi, i'm Maxwell !
 
 > **I LOVE to build** — anything from high-performance systems, AI pipelines, and tools that solve real problems.
 
 I am a Computer Science student and software engineer who loves the entire lifecycle of a product. 
 
 
-### Beyond the Terminal
+### Fun Facts
 1.  Play me in racket sports : pickleball, tennis, badminton
-2.  Find me at my residence( im a residence don)
+2.  Find me at my residence (im a residence don)
 3.  Bankrupting local pho restaurants
 
    Take a look at my personal website to learn more! --> maxwellpeng.com
+
+### Interests
+- AI Infra
+- Prediction Markets
+- Hackathons!
 
 ---
 
