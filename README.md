@@ -3,13 +3,10 @@
 
 > **I LOVE to build** — anything from high-performance systems, AI pipelines, and tools that solve real problems.
 
-I am a Computer Science student and software engineer who loves the entire lifecycle of a product. 
-
-
 ### Fun Facts
-1.  Play me in racket sports : pickleball, tennis, badminton
-2.  Find me at my residence (im a residence don)
-3.  Bankrupting local pho restaurants
+1.  Extremely goated at racket sports
+2.  Cracked at cooking
+3.  Been to every province in Canada
 
    Take a look at my personal website to learn more! --> maxwellpeng.com
 
