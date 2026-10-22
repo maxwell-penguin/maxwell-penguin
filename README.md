@@ -1,11 +1,11 @@
 
-# Hi, i'm Maxwell !
+# Hey, i'm Maxwell !
 
-> **I LOVE to build** — anything from high-performance systems, AI pipelines, and tools that solve real problems.
+> **I LOVE to build** — Reach out if you have any interesting projects or hackathons!.
 
 ### Fun Facts
-1.  Extremely goated at racket sports
-2.  Cracked at cooking
+1.  Professional side quest hustler ... food ...
+2.  Love cooking (would take elective cooking classes if i could)
 3.  Been to every province in Canada
 
    Take a look at my personal website to learn more! --> maxwellpeng.com
